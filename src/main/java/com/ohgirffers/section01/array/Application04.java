@@ -25,6 +25,7 @@ public class Application04 {
         double sum = 0.0;
         double avg = 0.0;
 
+
         for(int i = 0; i <scores.length; i++){
             sum +=scores[i];
         }
