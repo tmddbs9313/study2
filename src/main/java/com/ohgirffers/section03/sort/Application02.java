@@ -3,6 +3,7 @@ package com.ohgirffers.section03.sort;
 public class Application02 {
     public static void main(String[] args) {
 
+
         /*수업목표. 순차 정렬에 대해 이해하고 활용할 수 있다*/
         /*필기.
         *  순차정렬이란. 정렬 알고리즈멩서 가장 간단하고 기본이 되는 알고리즘으로,
